@@ -1,0 +1,9 @@
+pyvenv.cfg
+bin
+include
+lib
+lib64
+urlshortner/shortner/__pycache__/__init__.cpython-310.pyc
+urlshortner/shortner/__pycache__/
+urlshortner/urlshortner/__pycache__/
+urlshortner/shortner/migrations/
